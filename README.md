@@ -21,7 +21,7 @@
 
 <img width="1115" height="440" alt="image" src="https://github.com/user-attachments/assets/e990bbf3-3fc8-4efe-8a6b-be5013c212bb" />
 
-Скрин того что запущен
+Скрин того что Memcached запущен
 
 ### Задание 3 SQL vs NoSQL
 
